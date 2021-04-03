@@ -49,7 +49,7 @@ input{
     padding: 10px 20px;
     box-sizing: border-box;
     background: #eee;
-    border: 0;
+    border: 0.1px #ddd solid;
     display: block;
     width: 100%;
     background: #fff;
