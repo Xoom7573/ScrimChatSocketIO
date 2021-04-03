@@ -9,7 +9,7 @@ var message = document.getElementById('message'),
 
 // Emit events
 btn.addEventListener('click', function(){
-  if(message.value === null) return;
+  if(message.value === '' || handle.value === '') return;
   socket.emit('chat', {
       message: message.value,
       handle: handle.value
