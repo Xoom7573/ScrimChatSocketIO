@@ -1,0 +1,24 @@
+{
+  "name": "scrimchatsocketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xoom7573/ScrimChatSocketIO.git"
+  },
+  "author": "Xoom7573",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xoom7573/ScrimChatSocketIO/issues"
+  },
+  "homepage": "https://github.com/Xoom7573/ScrimChatSocketIO#readme"
+}
